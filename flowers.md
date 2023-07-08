@@ -1,4 +1,4 @@
 # Flowers
 
-- [ ] Rose
+- [x] Rose
 - [ ] Lily
